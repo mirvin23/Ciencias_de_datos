@@ -51,13 +51,13 @@ Recomendación y límites
 
 ### Entregable mínimo
 
-| Parte | Evidencia |
-|---|---|
-| Preparación | tipos, faltantes y decisiones documentadas |
-| Exploración | tabla resumen y tres gráficos |
-| Modelo | características, objetivo y separación train/test |
-| Evaluación | exactitud, reporte y matriz de confusión |
-| Comunicación | conclusión y limitaciones |
+| Parte        | Evidencia                                         |
+| ------------ | ------------------------------------------------- |
+| Preparación  | tipos, faltantes y decisiones documentadas        |
+| Exploración  | tabla resumen y tres gráficos                     |
+| Modelo       | características, objetivo y separación train/test |
+| Evaluación   | exactitud, reporte y matriz de confusión          |
+| Comunicación | conclusión y limitaciones                         |
 
 ---
 
@@ -203,14 +203,14 @@ Evidencia observada -> Interpretación prudente -> Acción propuesta
 
 ## Evaluación del proyecto
 
-| Criterio | Peso | Evidencia |
-|---|---:|---|
-| Comprensión del problema | 15% | pregunta, usuario y criterio de éxito |
-| Preparación de datos | 20% | inspección y transformaciones reproducibles |
-| Exploración visual | 20% | tres gráficos interpretados |
-| Modelo y evaluación | 25% | separación, métricas y errores |
-| Comunicación | 15% | informe y presentación claros |
-| Ética y límites | 5% | sesgos, incertidumbre y próximos datos |
+| Criterio                 | Peso | Evidencia                                   |
+| ------------------------ | ---: | ------------------------------------------- |
+| Comprensión del problema |  15% | pregunta, usuario y criterio de éxito       |
+| Preparación de datos     |  20% | inspección y transformaciones reproducibles |
+| Exploración visual       |  20% | tres gráficos interpretados                 |
+| Modelo y evaluación      |  25% | separación, métricas y errores              |
+| Comunicación             |  15% | informe y presentación claros               |
+| Ética y límites          |   5% | sesgos, incertidumbre y próximos datos      |
 
 ### Lista de verificación
 

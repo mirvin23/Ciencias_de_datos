@@ -12,13 +12,13 @@
 
 ## Rúbrica analítica
 
-| Criterio | Inicial | En desarrollo | Logrado |
-|---|---|---|---|
-| Datos | describe sin comprobar | inspecciona parcialmente | documenta calidad y decisiones |
-| Exploración | gráficos decorativos | gráficos con lectura parcial | cada gráfico responde una pregunta |
-| Modelo | mezcla train/test | entrena y mide | compara y explica errores |
-| Comunicación | afirma sin evidencia | cita resultados | conecta evidencia, acción y límites |
-| Reproducibilidad | rutas rotas | ejecución parcial | notebook limpio y ejecutable |
+| Criterio         | Inicial                | En desarrollo                | Logrado                             |
+| ---------------- | ---------------------- | ---------------------------- | ----------------------------------- |
+| Datos            | describe sin comprobar | inspecciona parcialmente     | documenta calidad y decisiones      |
+| Exploración      | gráficos decorativos   | gráficos con lectura parcial | cada gráfico responde una pregunta  |
+| Modelo           | mezcla train/test      | entrena y mide               | compara y explica errores           |
+| Comunicación     | afirma sin evidencia   | cita resultados              | conecta evidencia, acción y límites |
+| Reproducibilidad | rutas rotas            | ejecución parcial            | notebook limpio y ejecutable        |
 
 ## Criterio de aprobación
 

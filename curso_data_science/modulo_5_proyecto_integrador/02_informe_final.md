@@ -37,10 +37,10 @@
 
 ## 5. Evaluación
 
-| Configuración | Exactitud | Precisión | Recall | F1 |
-|---|---:|---:|---:|---:|
-| Modelo 1 | | | | |
-| Modelo 2 | | | | |
+| Configuración | Exactitud | Precisión | Recall |  F1 |
+| ------------- | --------: | --------: | -----: | --: |
+| Modelo 1      |           |           |        |     |
+| Modelo 2      |           |           |        |     |
 
 **Error más relevante:**
 
